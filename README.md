@@ -1,2 +1,3 @@
 # QR-code-component\
-a frontend mentor challange
+This is my first frontend mentor project . It is basically sollution of frontend mentor challange .
+
